@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069336775486",
+    "firebase_url": "https://geoflutterfire-abbc4.firebaseio.com",
+    "project_id": "geoflutterfire-abbc4",
+    "storage_bucket": "geoflutterfire-abbc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069336775486:android:7597709e617e58dad8ba6f",
+        "android_client_info": {
+          "package_name": "com.example.geofiretest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069336775486-2rt74626bljqm1ilf5icdpjfjira0gr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtAHnbRLRjWnDiYtvfPy0kjSFc_GaQjjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069336775486-2rt74626bljqm1ilf5icdpjfjira0gr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
